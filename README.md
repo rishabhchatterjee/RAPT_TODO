@@ -13,6 +13,7 @@
 Group meeting on Wednesdays at 5PM.
 
 [Current project slides](https://docs.google.com/presentation/d/1quJ2jhKicCUSYnbxKJEueCju1-9yexhnnaAsFyMq8CM/edit?usp=sharing)
+
 [Project Box](https://cmu.box.com/s/bksvdkoy27pxg2k0lm80stzrf0y5pgp6)
 
 ## General To-Do List for RAPT
