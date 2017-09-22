@@ -1,8 +1,9 @@
 |Project|Lit Review|Methods|Analysis|Final Report|
 |:---------|:--------:|:-----:|:------:|:-----------|
 |[Confidence in Virtual Agents](#)                         |/| | | |
-|[Human-Agent Rapport Building](#)                         |/| | | |
+|[Nonverbal Behavior Analysis and Generation](#)                         |/| | | |
 |[User Modeling and Memory](#)                             |/| | | |
+|[Time-Series Analysis of Rapport-Building](#)                         |/| | | |
 |[Virtual Agent Dialogue Authoring](#)                     |/| | | |
 
 ## Logistics
