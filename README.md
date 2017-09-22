@@ -1,5 +1,5 @@
 |Project|Lit Review|Methods|Analysis|Final Report|
-|:------|:--------:|:-----:|:------:|:-----------|
+|:---------|:--------:|:-----:|:------:|:-----------|
 |[Confidence in Virtual Agents](#)                         |/| | | |
 |[Human-Agent Rapport Building](#)                         |/| | | |
 |[User Modeling and Memory](#)                             |/| | | |
