@@ -1,12 +1,12 @@
 |Project|Lit Review Outline|Lit Review + RQ Draft|Data Prepared|Analyses Done|Final Report|
 |:---------:|:------:|:------:|:---------:|:---------:|:---------:|
-|Timeline                        |9/29|10/6|10/27|11/17|12/8|
-|[Confidence in Virtual Agents](#)                         |/| | | | |
-|[Nonverbal Behavior Analysis and Generation](#)                         |/| | | | |
-|[User Modeling and Memory](#)                             |/| | | | |
-|[Time-Series Analysis of Rapport-Building](#)                         |/| | | | |
-|[Virtual Agent Dialogue Authoring](#)                     |/| | | | |
-|Human-Agent Rapport-Building <a href="http://cra.org/cra-w/creu/#overview" target="_blank">(CREU)</a>: <a href="https://michelinaastlecreu.wordpress.com/" target="_blank">Mimi</a> and <a href="alvarostudieslearningscience.com" target="_blank">Alvaro</a>                     |/| | | | |
+|Timeline                                                  |9/29|10/6|10/27|11/17|12/8|
+|[Confidence in Virtual Agents](#)                                            |/| | | | |
+|[Nonverbal Behavior Analysis and Generation](#)                              |/| | | | |
+|[User Modeling and Memory](https://github.com/WilliXL/user_modeling_memory)  |/| | | | |
+|[Time-Series Analysis of Rapport-Building](#)                                |/| | | | |
+|[Virtual Agent Dialogue Authoring](#)                                        |/| | | | |
+|Human-Agent Rapport-Building <a href="http://cra.org/cra-w/creu/#overview" target="_blank">(CREU)</a>: <a href="https://michelinaastlecreu.wordpress.com/" target="_blank">Mimi</a> and <a href="alvarostudieslearningscience.com" target="_blank">Alvaro</a>                                                    |/| | | | |
 
 
 ## Logistics
