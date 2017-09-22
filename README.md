@@ -5,11 +5,11 @@
 |[User Modeling and Memory](#)                             |/| | | |
 |[Virtual Agent Dialogue Authoring](#)                     |/| | | |
 
-# Logistics
+## Logistics
 Group meeting on Wednesdays at 5PM.
 
-# General To-Do List for RAPT
+## General To-Do List for RAPT
 
-## Priority 1
+### Priority 1
 
-## Priority 2
+### Priority 2
