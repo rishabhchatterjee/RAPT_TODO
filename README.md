@@ -16,6 +16,8 @@ Group meeting on Wednesdays at 5PM.
 
 [Project Box](https://cmu.box.com/s/bksvdkoy27pxg2k0lm80stzrf0y5pgp6)
 
+[Mendeley Group](https://www.mendeley.com/community/rapt-fall-2017-interns/)
+
 ## General To-Do List for RAPT
 
 ### Read papers
