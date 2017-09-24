@@ -1,4 +1,4 @@
-|Project|Lit Review Outline|Lit Review + RQ Draft|Data Prepared|Analyses Done|Final Report|
+|Project|Lit Review (or requirements doc) Outline|Lit Review + RQ Draft (or mockups)|Data Prepared (or prototype)|Analyses Done (or implementation)|Final Report|
 |:---------:|:------:|:------:|:---------:|:---------:|:---------:|
 |Timeline                                                  |9/29|10/6|10/27|11/17|12/8|
 |[Confidence in Virtual Agents](#)                                            |/| | | | |
