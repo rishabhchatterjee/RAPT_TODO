@@ -1,7 +1,7 @@
 |Project|Lit Review (or requirements doc) Outline|Lit Review + RQ Draft (or mockups)|Data Prepared (or prototype)|Analyses Done (or implementation)|Final Report|
 |:---------:|:------:|:------:|:---------:|:---------:|:---------:|
 |Timeline                                                  |9/29|10/6|10/27|11/17|12/8|
-|[Confidence in Virtual Agents](#)                                            |[Outline](https://docs.google.com/document/d/1huDqPyOQdtrxJqqJqtpdAO08jCGdcssm7651vjdyBrw/edit?usp=sharing)| | | | |
+|[Confidence in Virtual Agents](https://drive.google.com/drive/folders/0B8-jZTnFMdNmUFZHOWE0MWd0VDg?usp=sharing)                                            |[Outline](https://docs.google.com/document/d/1huDqPyOQdtrxJqqJqtpdAO08jCGdcssm7651vjdyBrw/edit?usp=sharing)| | | | |
 |[Nonverbal Behavior Analysis and Generation](https://drive.google.com/drive/u/1/folders/0B1BiYP48lWAVRWdEdXhnWjRyYjQ)                              |/| | | | |
 |[User Modeling and Memory](https://github.com/WilliXL/user_modeling_memory)  |/| | | | |
 |[Time-Series Analysis of Rapport-Building](#)                                |/| | | | |
