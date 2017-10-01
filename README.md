@@ -2,7 +2,7 @@
 |:---------:|:------:|:------:|:---------:|:---------:|:---------:|
 |Timeline                                                  |9/29|10/6|10/27|11/17|12/8|
 |[Confidence in Virtual Agents](#)                                            |/| | | | |
-|[Nonverbal Behavior Analysis and Generation](#)                              |/| |Outline(https://docs.google.com/document/d/1dorhXnli4SSt9FlM3Im6u9phYerJlhj_kAni4Z9Cx88/edit) | | |
+|[Nonverbal Behavior Analysis and Generation](#)                              |/(https://docs.google.com/document/d/1dorhXnli4SSt9FlM3Im6u9phYerJlhj_kAni4Z9Cx88/edit)| | | | |
 |[User Modeling and Memory](https://github.com/WilliXL/user_modeling_memory)  |/| | | | |
 |[Time-Series Analysis of Rapport-Building](#)                                |/| | | | |
 |[Virtual Agent Dialogue Authoring](#)                                        |/| | | | |
