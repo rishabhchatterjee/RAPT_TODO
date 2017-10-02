@@ -3,7 +3,7 @@
 |Timeline                                                  |9/29|10/6|10/27|11/17|12/8|
 |[Confidence in Virtual Agents](https://drive.google.com/drive/folders/0B8-jZTnFMdNmUFZHOWE0MWd0VDg?usp=sharing)                                            |[Outline](https://docs.google.com/document/d/1huDqPyOQdtrxJqqJqtpdAO08jCGdcssm7651vjdyBrw/edit?usp=sharing)| | | | |
 |[Nonverbal Behavior Analysis and Generation](https://drive.google.com/drive/u/1/folders/0B1BiYP48lWAVRWdEdXhnWjRyYjQ)                              |/| | | | |
-|[User Modeling and Memory](https://github.com/WilliXL/user_modeling_memory)  |/| | | | |
+|[User Modeling and Memory](https://github.com/WilliXL/user_modeling_memory)  |[Outline](https://cmu.box.com/s/v9noffkys5u9ub7r70inrnjpspc2sj2x)| | | | |
 |[Time-Series Analysis of Rapport-Building](#)                                |/| | | | |
 |[Virtual Agent Dialogue Authoring](#)                                        |/| | | | |
 |Human-Agent Rapport-Building <a href="http://cra.org/cra-w/creu/#overview" target="_blank">(CREU)</a>: <a href="https://michelinaastlecreu.wordpress.com/" target="_blank">Mimi</a> and <a href="alvarostudieslearningscience.com" target="_blank">Alvaro</a>                                                    |/| | | | |
