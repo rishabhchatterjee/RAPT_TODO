@@ -1,6 +1,6 @@
 |Project|Person|Lit Review (or requirements doc) Outline|Lit Review + RQ Draft (or mockups)|Data Prepared (or prototype)|Analyses Done (or implementation)|Final Report|
 |:---------:|:------:|:------:|:------:|:---------:|:---------:|:---------:|
-|Timeline                                                  |9/29|10/6|10/27|11/17|12/8|
+|Timeline                                                  ||9/29|10/6|10/27|11/17|12/8|
 |[Confidence in Virtual Agents](https://drive.google.com/drive/folders/0B8-jZTnFMdNmUFZHOWE0MWd0VDg?usp=sharing)                                            |Rae|[Outline](https://docs.google.com/document/d/1huDqPyOQdtrxJqqJqtpdAO08jCGdcssm7651vjdyBrw/edit?usp=sharing)| | | | |
 |[Nonverbal Behavior Analysis and Generation](https://drive.google.com/drive/u/1/folders/0B1BiYP48lWAVRWdEdXhnWjRyYjQ)                              |Rishabh|[Outline](https://docs.google.com/document/d/1dorhXnli4SSt9FlM3Im6u9phYerJlhj_kAni4Z9Cx88/edit?usp=sharing)| | | | |
 |[User Modeling and Memory](https://github.com/WilliXL/user_modeling_memory)  |William|[Outline](https://cmu.box.com/s/v9noffkys5u9ub7r70inrnjpspc2sj2x)|[Lit Review](https://cmu.box.com/s/2c1283yys4v9da04acsnwhhl6r8r8bps)| | | |
