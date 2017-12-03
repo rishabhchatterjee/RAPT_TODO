@@ -1,0 +1,83 @@
+
+Reading file...
+
+
+File read.
+
+
+Doing Smile Presence Analysis...
+
+
+Dictionary built.
+
+
+Rapport	Both	Tutor	Tutee
+
+Count Analysis
+
+1.0 1 25 19
+2.0 35 181 179
+3.0 23 213 207
+4.0 32 260 229
+5.0 32 196 191
+6.0 59 308 309
+7.0 9 79 90
+
+Percentage Analysis
+
+1.0 2.22 55.56 42.22
+2.0 8.86 45.82 45.32
+3.0 5.19 48.08 46.73
+4.0 6.14 49.90 43.95
+5.0 7.64 46.78 45.58
+6.0 8.73 45.56 45.71
+7.0 5.06 44.38 50.56
+
+Smile Presence Analysis done.
+
+
+Mutual Smile Presence in intervals of 5 mins along with Rapport Avg
+
+Time Period 0  -  5 	:  9 	RapportAvg  5.00 	Omitted  1 / 9
+Time Period 5  -  10 	:  6 	RapportAvg  3.60 	Omitted  1 / 6
+Time Period 10  -  15 	:  19 	RapportAvg  4.27 	Omitted  4 / 19
+Time Period 15  -  20 	:  29 	RapportAvg  4.00 	Omitted  3 / 29
+Time Period 20  -  25 	:  23 	RapportAvg  4.33 	Omitted  2 / 23
+Time Period 25  -  30 	:  25 	RapportAvg  4.92 	Omitted  1 / 25
+Time Period 30  -  35 	:  24 	RapportAvg  4.42 	Omitted  0 / 24
+Time Period 35  -  40 	:  15 	RapportAvg  4.73 	Omitted  0 / 15
+Time Period 40  -  45 	:  17 	RapportAvg  4.13 	Omitted  2 / 17
+Time Period 45  -  50 	:  9 	RapportAvg  4.56 	Omitted  0 / 9
+Time Period 50  -  55 	:  17 	RapportAvg  4.38 	Omitted  1 / 17
+Time Period 55  -  60 	:  13 	RapportAvg  4.62 	Omitted  0 / 13
+
+Tutor Only Smile Presence in intervals of 5 mins along with Rapport Avg
+
+Time Period 0  -  5 	:  62 	RapportAvg  4.42 	Omitted  2 / 62
+Time Period 5  -  10 	:  74 	RapportAvg  4.14 	Omitted  1 / 74
+Time Period 10  -  15 	:  100 	RapportAvg  4.85 	Omitted  15 / 100
+Time Period 15  -  20 	:  156 	RapportAvg  4.14 	Omitted  14 / 156
+Time Period 20  -  25 	:  180 	RapportAvg  4.03 	Omitted  2 / 180
+Time Period 25  -  30 	:  164 	RapportAvg  4.56 	Omitted  6 / 164
+Time Period 30  -  35 	:  124 	RapportAvg  4.42 	Omitted  5 / 124
+Time Period 35  -  40 	:  104 	RapportAvg  4.10 	Omitted  8 / 104
+Time Period 40  -  45 	:  107 	RapportAvg  4.51 	Omitted  6 / 107
+Time Period 45  -  50 	:  103 	RapportAvg  4.34 	Omitted  3 / 103
+Time Period 50  -  55 	:  80 	RapportAvg  4.09 	Omitted  5 / 80
+Time Period 55  -  60 	:  75 	RapportAvg  4.35 	Omitted  0 / 75
+
+Tutee Only Smile Presence in intervals of 5 mins along with Rapport Avg
+
+Time Period 0  -  5 	:  67 	RapportAvg  4.49 	Omitted  2 / 67
+Time Period 5  -  10 	:  62 	RapportAvg  4.16 	Omitted  1 / 62
+Time Period 10  -  15 	:  101 	RapportAvg  4.99 	Omitted  16 / 101
+Time Period 15  -  20 	:  158 	RapportAvg  4.22 	Omitted  16 / 158
+Time Period 20  -  25 	:  158 	RapportAvg  4.10 	Omitted  3 / 158
+Time Period 25  -  30 	:  147 	RapportAvg  4.57 	Omitted  6 / 147
+Time Period 30  -  35 	:  103 	RapportAvg  4.48 	Omitted  6 / 103
+Time Period 35  -  40 	:  104 	RapportAvg  4.25 	Omitted  7 / 104
+Time Period 40  -  45 	:  90 	RapportAvg  4.55 	Omitted  6 / 90
+Time Period 45  -  50 	:  115 	RapportAvg  4.35 	Omitted  2 / 115
+Time Period 50  -  55 	:  106 	RapportAvg  4.21 	Omitted  7 / 106
+Time Period 55  -  60 	:  85 	RapportAvg  4.31 	Omitted  0 / 85
+>>> 
