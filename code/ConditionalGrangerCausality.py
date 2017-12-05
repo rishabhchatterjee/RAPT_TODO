@@ -201,6 +201,9 @@ class ConditionalGrangerCausality:
 		# Creating Matrix to save the links between the signals :
 		M_direct = np.zeros((len(signals),len(signals)))
 
+		# create pd to write to CSV
+		new_df = pd.DataFrame(columns=["from", "to", "F", "p", "GC Magnitude", "mediated by"])
+
 		# Testing for direct links between signals :
 		for i in range(0,len(signals)):
 			for j in range(0,len(signals)):
@@ -211,6 +214,10 @@ class ConditionalGrangerCausality:
 					#if gc['ratio'] > 0 and gc['p_value'] < 0.01:
 						#print "Results : signal",j+1,"->",i+1,"detected"
 						print ("behavioral signal", j + 1, "->", i + 1, "detected", "(F=",test['F_value'],",p=",test['p_value'],",Granger causality magnitude=",test['ratio'],")")
+						
+						# write to new_df
+						new_df = new_df.append({"from":j+1, "to":i+1, "F": test['F_value'], "p":test['p_value'], "GC Magnitude": test['ratio']}, ignore_index = True)
+
 						M_direct[i,j] = 1
 
 		# Computing the FULL VAR model :
@@ -283,12 +290,23 @@ class ConditionalGrangerCausality:
 							ratio = np.log(var_noise/VAR_noise_matrix[j,j])
 							if ratio <= 0:
 								print ("signal",j+1,"->",i+1," is mediated by signal",k+1)
+								
+								new_df = new_df.append({"from": j+1, "to": i+1, "mediated by": k+1}, ignore_index = True)
+
 								M_direct[i,j] = 0
 								M_final[i,k] = 1
 								M_final[k,j] = 1
 								break
 							else:
 								M_final[i,j] = 1
+
+		make = False	# save data as csv file
+
+		if make :
+			# write new_df to a csv file
+			print("\nMaking csv file...")
+			new_df.to_csv("gc_1.csv", sep = ",")
+			print("\ncsv of data created\n")
 
 		results = dict()
 		results['link_matrix'] = M_final

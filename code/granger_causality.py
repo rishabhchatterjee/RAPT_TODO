@@ -17,7 +17,7 @@ print ("\nLoading behavioral signals from the csv file : ", filename,"\n")
 colNames = getDict()
 print("colNames dict received.\n")
 
-print(colNames)
+#print(colNames)
 print("\n")
 
 x1 = InputCSV(filename, columns = [colNames[16]])   # self disclosure tutor
@@ -138,7 +138,7 @@ max_lag = 6     # 1) maximum lag acceptable to estimate autoregressive models (I
 criterion = 'bic'   # 2) criterion to estimate the optimal number of lags to estimate autoregressive models
 plot = True         # 3) authorize for plot of the results
 
-print("\n")
+# print("\n")
 cgc = CGC.ConditionalGrangerCausality(max_lag = max_lag, criterion = criterion, plot = plot)
 
 #For groups of 4 members
@@ -148,6 +148,11 @@ cgc = CGC.ConditionalGrangerCausality(max_lag = max_lag, criterion = criterion, 
 #For groups of 3 members (inputs x77 to x100 and x141 are removed before the computation)
 #results = cgc.compute(x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,x11,x12,x13,x14,x15,x16,x17,x18,x19,x20,x21,x22,x23,x24,x39,x40,x41,x42,x43,x44,x45,x46,x47,x48,x49,x50,x51,x52,x53,x54,x55,x56,x57,x58,x59,x60,x61,x62,x115,x116,x117,x118,x119,x120,x121,x122,x123,x124,x125,x126,x127,x128,x129,x130,x131,x132,x133,x134,x135,x136,x137,x138,x139,x140,x142)
 
+
+# print out conjunction being testes 
+print(colNames[16], colNames[28], colNames[22], colNames[4], colNames[26], colNames[30])
+
+# create pd line 213 ConditionalGrangerCausality
 
 results = cgc.compute(x1,x2,x3,x39,x40,x41,x139,x140)
 
