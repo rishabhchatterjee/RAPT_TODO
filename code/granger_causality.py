@@ -23,15 +23,15 @@ print("\n")
 x1 = InputCSV(filename, columns = [colNames[16]])   # self disclosure tutor
 x2 = InputCSV(filename, columns = [colNames[28]])   # gaze partner tutor
 x3 = InputCSV(filename, columns = [colNames[22]])   # smile tutor
-# x4 = InputCSV(filename, columns = ['p1_B4'])
-# x5 = InputCSV(filename, columns = ['p1_B5'])
-# x6 = InputCSV(filename, columns = ['p1_B6'])
-# x7 = InputCSV(filename, columns = ['p1_B7'])
-# x8 = InputCSV(filename, columns = ['p1_B8'])
-# x9 = InputCSV(filename, columns = ['p1_B9'])
-# x10 = InputCSV(filename, columns = ['p1_B10'])
-# x11 = InputCSV(filename, columns = ['p1_B11'])
-# x12 = InputCSV(filename, columns = ['p1_B12'])
+x4 = InputCSV(filename, columns = [colNames[10]])   # shared experience tutor
+x5 = InputCSV(filename, columns = [colNames[13]])   # praise tutor
+x6 = InputCSV(filename, columns = [colNames[44]])   # deep question tutor 
+x7 = InputCSV(filename, columns = [colNames[21]])   # gaze worksheet tutor
+x8 = InputCSV(filename, columns = [colNames[40]])   # correct feedback tutor
+x9 = InputCSV(filename, columns = [colNames[34]])   # knowledge telling tutor
+x10 = InputCSV(filename, columns = [colNames[36]])  # knowledge building tutor
+x11 = InputCSV(filename, columns = [colNames[11]])  # inclusive language tutor
+x12 = InputCSV(filename, columns = [colNames[15]])  # VSN tutor
 # x13 = InputCSV(filename, columns = ['p1_B13'])
 # x14 = InputCSV(filename, columns = ['p1_B14'])
 # x15 = InputCSV(filename, columns = ['p1_B15'])
@@ -49,15 +49,15 @@ x3 = InputCSV(filename, columns = [colNames[22]])   # smile tutor
 x39 = InputCSV(filename, columns = [colNames[4]])   # self disclosure tutee
 x40 = InputCSV(filename, columns = [colNames[26]])  # gaze partner tutee
 x41 = InputCSV(filename, columns = [colNames[30]])  # smile tutee
-# x42 = InputCSV(filename, columns = ['p2_B4'])
-# x43 = InputCSV(filename, columns = ['p2_B5'])
-# x44 = InputCSV(filename, columns = ['p2_B6'])
-# x45 = InputCSV(filename, columns = ['p2_B7'])
-# x46 = InputCSV(filename, columns = ['p2_B8'])
-# x47 = InputCSV(filename, columns = ['p2_B9'])
-# x48 = InputCSV(filename, columns = ['p2_B10'])
-# x49 = InputCSV(filename, columns = ['p2_B11'])
-# x50 = InputCSV(filename, columns = ['p2_B12'])
+x42 = InputCSV(filename, columns = [colNames[9]])   # shared experience tutee
+x43 = InputCSV(filename, columns = [colNames[5]])   # praise tutee
+x44 = InputCSV(filename, columns = [colNames[32]])  # deep question tutee
+x45 = InputCSV(filename, columns = [colNames[24]])  # gaze worksheet tutee
+x46 = InputCSV(filename, columns = [colNames[41]])  # correct feedback tutee
+x47 = InputCSV(filename, columns = [colNames[43]])  # knnowledge telling tutee
+x48 = InputCSV(filename, columns = [colNames[37]])  # knowledge building tutee
+x49 = InputCSV(filename, columns = [colNames[7]])   # inclusive language tutee
+x50 = InputCSV(filename, columns = [colNames[19]])  # VSN tutee
 # x51 = InputCSV(filename, columns = ['p2_B13'])
 # x52 = InputCSV(filename, columns = ['p2_B14'])
 # x53 = InputCSV(filename, columns = ['p2_B15'])
@@ -149,12 +149,10 @@ cgc = CGC.ConditionalGrangerCausality(max_lag = max_lag, criterion = criterion, 
 #results = cgc.compute(x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,x11,x12,x13,x14,x15,x16,x17,x18,x19,x20,x21,x22,x23,x24,x39,x40,x41,x42,x43,x44,x45,x46,x47,x48,x49,x50,x51,x52,x53,x54,x55,x56,x57,x58,x59,x60,x61,x62,x115,x116,x117,x118,x119,x120,x121,x122,x123,x124,x125,x126,x127,x128,x129,x130,x131,x132,x133,x134,x135,x136,x137,x138,x139,x140,x142)
 
 
-# print out conjunction being testes 
-print(colNames[16], colNames[28], colNames[22], colNames[4], colNames[26], colNames[30])
 
 # create pd line 213 ConditionalGrangerCausality
 
-results = cgc.compute(x1,x2,x3,x39,x40,x41,x139,x140)
+results = cgc.compute(x1,x2,x4,x4,x5,x6,x7,x8,x9,x10,x11,x12,x39,x40,x41,x42,x43,x44,x45,x46,x47,x48,x49,x50, x139,x140)
 
 
 

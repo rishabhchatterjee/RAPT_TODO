@@ -300,12 +300,12 @@ class ConditionalGrangerCausality:
 							else:
 								M_final[i,j] = 1
 
-		make = False	# save data as csv file
+		make = True	# save data as csv file
 
 		if make :
 			# write new_df to a csv file
 			print("\nMaking csv file...")
-			new_df.to_csv("gc_1.csv", sep = ",")
+			new_df.to_csv("gc_6.csv", sep = ",")
 			print("\ncsv of data created\n")
 
 		results = dict()
